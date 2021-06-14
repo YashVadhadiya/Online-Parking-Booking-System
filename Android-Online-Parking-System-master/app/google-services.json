@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385766853339",
+    "firebase_url": "https://parking-system-b8a10.firebaseio.com",
+    "project_id": "parking-system-b8a10",
+    "storage_bucket": "parking-system-b8a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385766853339:android:2f6994f7930a8a76",
+        "android_client_info": {
+          "package_name": "com.example.dell.sampleregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385766853339-03u9udapdeeeonfr9h1nec5q2hhk941q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_sYhg44FgsEi2QwO4hZ2KOlzPhl8H14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

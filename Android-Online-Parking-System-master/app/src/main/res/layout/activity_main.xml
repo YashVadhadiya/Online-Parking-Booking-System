@@ -1,0 +1,33 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:gravity="center_vertical"
+    android:background="@drawable/qaz"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="167dp"
+        android:layout_height="104dp"
+        android:id="@+id/B2"
+        android:background="@drawable/ss_logo"
+        android:layout_gravity="center" />
+
+    <Button
+    android:id="@+id/buttonSignIN"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Sign In"
+    android:onClick="signIn"
+    android:textColor="@color/abc_search_url_text_pressed" />
+
+<Button
+    android:id="@+id/buttonSignUP"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Sign Up"
+    android:textColor="@color/abc_search_url_text_pressed" />
+
+</LinearLayout>

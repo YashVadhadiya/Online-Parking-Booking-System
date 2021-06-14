@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sample Registration</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="user">User Name</string>
+    <string name="passwor">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_hom">Hom</string>
+    <string name="title_activity_view_booking">ViewBooking</string>
+    <string name="title_activity_my_details">MyDetails</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_hm">Hm</string>
+    <string name="title_activity_aftr">Aftr</string>
+    <string name="title_activity_cc">CC</string>
+    <string name="title_activity_help">Help</string>
+</resources>
